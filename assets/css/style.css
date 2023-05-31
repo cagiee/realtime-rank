@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Manrope";
+}
+
+table.teams tr {
+  border: 1px solid #edeff5;
+}
+table.teams tr td {
+  padding: 1rem;
+}
+table.teams thead tr {
+  color: #696f8c;
+  background-color: #F9FAFC;
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+.input-group input:not([type=radio]) {
+  box-sizing: border-box;
+  width: 100%;
+  height: 32px;
+  padding: 0 12px;
+  border: 1px solid #d8dae5;
+  background-color: #ffffff;
+  color: #474d66;
+  font-size: 14px;
+}/*# sourceMappingURL=style.css.map */
